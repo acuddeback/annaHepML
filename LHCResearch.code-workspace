@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "hep_ml"
+		},
+		{
+			"path": "helloNeural"
 		}
 	]
 }

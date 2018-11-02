@@ -122,13 +122,10 @@ def nanMassLept(_massArr):
     return nanLepts
 
 
-## testEE things that are tested to be electrons and actually are (true negative)
-
-## testEM things that are tested to be electrons and are actually muons (false negative)
-
-## testMM things that are tested to be muons and actually are (true positive)
-
-## testME that are tested to be muons and are actually electrons (false positive)
+## - testEE things that are tested to be electrons and actually are (true negative)
+## - testEM things that are tested to be electrons and are actually muons (false negative)
+## - testMM things that are tested to be muons and actually are (true positive)
+## - testME that are tested to be muons and are actually electrons (false positive)
 
 
 # gets false positive rate
